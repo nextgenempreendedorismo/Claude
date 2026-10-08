@@ -44,7 +44,7 @@ Para a lista completa (centenas de serviços), veja [free-for-dev](https://githu
 | Serviço | Grátis | Pegadinhas |
 |---|---|---|
 | Supabase Auth | 50 mil usuários ativos/mês | — |
-| [Clerk](https://clerk.com/pricing) ⚠️ | 50 mil usuários retidos/mês · 100 organizações | Só conta quem volta após 24 h |
+| [Clerk](https://clerk.com/pricing) ✅ | 50 mil usuários retidos/mês · 100 organizações | Só conta quem volta após 24 h |
 
 ## E-mail
 
@@ -72,7 +72,7 @@ Para a lista completa (centenas de serviços), veja [free-for-dev](https://githu
 
 | Serviço | Grátis | Pegadinhas |
 |---|---|---|
-| [Make](https://www.make.com/en/pricing) ⚠️ | 1.000 créditos/mês · 2 cenários ativos | Roda no máx. a cada 15 min |
+| [Make](https://www.make.com/en/pricing) ✅ | 1.000 créditos/mês · 2 cenários ativos | Roda no máx. a cada 15 min |
 | [Zapier](https://zapier.com/pricing) ⚠️ | 100 tarefas/mês | Cada passo conta como tarefa |
 | [n8n](https://n8n.io/pricing/) ⚠️ | Cloud: só teste de 14 dias · Self-hosted: grátis e ilimitado | Self-hosted exige servidor próprio |
 
