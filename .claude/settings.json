@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "DietrichGebert/ponytail"
       }
+    },
+    "remotion": {
+      "source": {
+        "source": "github",
+        "repo": "remotion-dev/claude-code-plugin"
+      }
     }
   },
   "enabledPlugins": {
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "remotion@remotion": true
   }
 }
